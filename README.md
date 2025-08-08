@@ -12,11 +12,9 @@ Manage your daily tasks with options to **add, edit, delete, and mark todos as c
 
 ## 📸 Screenshots
 
-### 🖼 Home Page
-![Home Page Screenshot](IMAGE_LINK_1)
+![image alt](https://github.com/Virus2hell/Todo-app/blob/4eb1063e1bb1738f4e1aa9eb368daa47c2ed36c5/todo-app-img1.png)
 
-### 🖼 Edit Todo
-![Edit Todo Screenshot](IMAGE_LINK_2)
+![image alt]([IMAGE_LINK_2](https://github.com/Virus2hell/Todo-app/blob/4eb1063e1bb1738f4e1aa9eb368daa47c2ed36c5/todo-app-img1.png))
 
 ---
 
