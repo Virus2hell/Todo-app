@@ -36,7 +36,7 @@ Manage your daily tasks with options to **add, edit, delete, and mark todos as c
 ---
 
 ## 📂 Project Structure
-
+```
 todo-app/
 ├── my-app/
 │ ├── node_modules/
@@ -64,3 +64,4 @@ todo-app/
 │ ├── tsconfig.json
 │ ├── tsconfig.node.json
 │ └── vite.config.ts
+```
