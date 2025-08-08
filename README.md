@@ -14,7 +14,7 @@ Manage your daily tasks with options to **add, edit, delete, and mark todos as c
 
 ![image alt](https://github.com/Virus2hell/Todo-app/blob/4eb1063e1bb1738f4e1aa9eb368daa47c2ed36c5/todo-app-img1.png)
 
-![image alt]([IMAGE_LINK_2](https://github.com/Virus2hell/Todo-app/blob/4eb1063e1bb1738f4e1aa9eb368daa47c2ed36c5/todo-app-img1.png))
+![image alt](https://github.com/Virus2hell/Todo-app/blob/f43e37150700f11c0e6b09431b1e40009921bd85/todo-app-img2.png)
 
 ---
 
@@ -36,3 +36,31 @@ Manage your daily tasks with options to **add, edit, delete, and mark todos as c
 ---
 
 ## 📂 Project Structure
+
+todo-app/
+├── my-app/
+│ ├── node_modules/
+│ ├── public/
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── TodoForm.tsx
+│ │ │ └── TodoList.tsx
+│ │ ├── CSS/
+│ │ │ ├── App.css
+│ │ │ ├── TodoForm.css
+│ │ │ └── TodoList.css
+│ │ ├── App.tsx
+│ │ ├── main.tsx
+│ │ ├── todo.ts
+│ │ ├── TodoService.ts
+│ │ └── vite-env.d.ts
+│ ├── .gitignore
+│ ├── eslint.config.js
+│ ├── index.html
+│ ├── package.json
+│ ├── package-lock.json
+│ ├── README.md
+│ ├── tsconfig.app.json
+│ ├── tsconfig.json
+│ ├── tsconfig.node.json
+│ └── vite.config.ts
